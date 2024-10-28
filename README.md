@@ -14,4 +14,4 @@
 
 ![Alt text](./public/casteljau.png)
 
-**As you can se the seconf graph is much smoother and clean**
+**As you can se the second graph is much smoother and clean**
