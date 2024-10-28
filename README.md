@@ -1,2 +1,2 @@
-# B-zier-Curve
+# Bezier-Curve
 Bézier Curve Visualization Using Lagrange Interpolation
