@@ -1,6 +1,6 @@
 # Bezier-Curve
-- Bézier Curve Visualization Using Lagrange Interpolation
-- Bézier Curve Visualization Using De Casteljau's Algorithm
+- Bézier Curve Visualization Using *Lagrange Interpolation*
+- Bézier Curve Visualization Using *De Casteljau's Algorithm*
 
 ### ***If you want to know the maths behind it go [here](https://github.com/Kraken57/Bezier-Curve/blob/main/public/maths.pdf).***
 
